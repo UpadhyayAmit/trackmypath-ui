@@ -6,4 +6,4 @@
 
 # AuthProvider
 
-![Screenshot](./assets/informative%20images/AuthProvider.png.png)
+![Screenshot](./assets/informative%20images/AuthProvider.png)
